@@ -25,6 +25,8 @@ contract SimpleStorage {
         favoriteNumber = _favoriteNumber;
     }
     
+    //View function promises not to modify the state
+    //Pure function promises not to modify the state and does not read
     function retrieve() public view returns(uint256) {
         return favoriteNumber;
     }
