@@ -16,5 +16,5 @@ Steps:
 2. Select Injected web3 in environment
 3. Step 2 opens metamask automatically.
 4. Click Deploy after succesful connection.
-5. Check the transaction in etherscan network by your account address.
+5. Check the transaction in etherscan network by your account address. ( https://rinkeby.etherscan.io/ )
 6. The number of blocks on further storing more person details.
